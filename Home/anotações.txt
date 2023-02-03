@@ -1,0 +1,54 @@
+<!DOCTYPE HTML>
+importante colocar para reconhecimento da versão do HTML no navegador. escrever em maiusculo.
+
+<H1> e </h1> para negrito em titulos
+<p> e </p> para colocar frases em negrito
+<em> e </em> para mudar o modo da letra
+<meta charset="UTF=8"> para reconhecimento das pricipais linguas e acentuações europeia,brasileira e etc.
+
+colocar <html> no começo e final do código, depois do <!DOCTYPE>
+
+
+como funciona as cores no HTML
+
+hexadecimal, rgb e nome das cores 
+
+RGB = red,green e blue
+
+para identificar a cor é # 2 caracteres para o red, 2 para green e 2 para blue.
+
+0 = ausencia de cor
+F = maximo de cor
+
+#000000 = preto
+#FFFFFF = Branco
+
+dicionario RGB (RED,BLUE E YELLOW)
+
+de 0 até 255
+
+0 = ausencia
+255 = maximo
+
+RGB (255,255,255)
+
+padding 20px; -> cria uma borda interna para deixar a letra longe da borda 
+margin -> cria um espaçamento da lateral da pagina
+
+
+Como ajustar a altura do elemento, através da propriedade height
+Como ajustar a largura do elemento, através da propriedade width
+Como ajustar o espaçamento interno do elemento, através da propriedade padding
+Como ajustar o espaçamento externo do elemento, através da propriedade margin
+Como se comporta um time de front-end hoje em dia
+
+<UL = LISTA NÃO ORDENADA
+</OL> = LISTA ORDENADA
+
+.class
+#ID 
+.NAV>
+ = UTILIZADO PARA CALOCAR O CONTEUDO DENTRO DE UMA DIVISÃO NA CATEGORIA NAVEGAÇÃO, ASSIM PODEMOS ALTERAR A DIVISÃO SEM COMPROMETER NOVOS CAMPOS SE FOREM INSERIDOS.
+
+<main> = conteudo principal.
+
