@@ -18,7 +18,7 @@ Visite o projeto online
 
 
 🔖 Layout
-
+https://github.com/matheuskb/HTML/blob/fcad912962428024848baa80cda7f48fbce8375f/barbearia/homepag.html
 
 
 
