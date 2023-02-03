@@ -18,7 +18,7 @@ Visite o projeto online
 
 
 🔖 Layout
-Você pode visualizar o layout do projeto através do link abaixo.
-https://matheuskb.github.io/html
+
+
 
 
